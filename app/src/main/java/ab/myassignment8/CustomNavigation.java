@@ -31,7 +31,7 @@ public class CustomNavigation extends AppCompatActivity {
         NavigationView navigationView=findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener((NavigationView.OnNavigationItemSelectedListener) this);
     }
-   
+
 
 
 }
