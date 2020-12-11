@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Assignment 8</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+
+    <style name="drawer_open">Drawer Open</style>
+    <style name="drawer_close">Drawer Close</style>
+
+</resources>

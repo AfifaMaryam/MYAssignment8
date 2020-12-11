@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:padding="15dp"
+    android:gravity="bottom"
+    android:background="#dadada"
+
+    >
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_launcher_background"
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:text="Navigation Drawer"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+
+        android:text="Drawer@gamil.com"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>
